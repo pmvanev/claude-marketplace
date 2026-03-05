@@ -1,0 +1,16 @@
+{
+  "name": "pmvanev-plugins",
+  "owner": {
+    "name": "Phil Van Every"
+  },
+  "plugins": [
+    {
+      "name": "phil",
+      "description": "Phil's portable development standards: rules, skills, hooks, and setup command.",
+      "source": {
+        "source": "github",
+        "repo": "pmvanev/phil-claude-plugin"
+      }
+    }
+  ]
+}
