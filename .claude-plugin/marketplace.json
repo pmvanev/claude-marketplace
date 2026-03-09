@@ -24,10 +24,8 @@
       "name": "norbert",
       "description": "Local-first observability for Claude Code sessions — hooks and MCP server.",
       "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/pmvanev/norbert.git",
-        "path": "plugin/",
-        "ref": "main"
+        "source": "github",
+        "repo": "pmvanev/norbert-cc-plugin"
       }
     }
   ]
