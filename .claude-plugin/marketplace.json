@@ -19,6 +19,16 @@
         "source": "github",
         "repo": "pmvanev/sbir-plugin-cc"
       }
+    },
+    {
+      "name": "norbert",
+      "description": "Local-first observability for Claude Code sessions — hooks and MCP server.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/pmvanev/norbert.git",
+        "path": "plugin/",
+        "ref": "main"
+      }
     }
   ]
 }
